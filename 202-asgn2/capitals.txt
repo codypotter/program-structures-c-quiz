@@ -1,0 +1,5 @@
+S|1|What is the capital of Italy|Rome
+S|1|What is the capital of France|Paris
+T|2|C++ is object oriented|True
+T|9|Rich is discouraging creative coding methods|TRUE
+M|2|Here is a test mutliple choice question|answerone:answertwo:answerthree:answerfour:answerfive:|B
